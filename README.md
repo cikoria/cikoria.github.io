@@ -1,2 +1,1 @@
 # cikoria.github.io
-cikoria
