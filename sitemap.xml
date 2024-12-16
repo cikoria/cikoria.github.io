@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://cikoria.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://cikoria.github.io/</loc>
+</url>
+<url>
+<loc>https://cikoria.github.io/elso-bejegyzes.html</loc>
+<lastmod>2024-07-09T11:04:42+02:00</lastmod>
+<image:image>
+<image:loc>https://cikoria.github.io/media/posts/2/gallery/_5a04264f-6815-4c60-99fc-792f1f78868b-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cikoria.github.io/media/posts/2/gallery/_5147cb9d-1130-4def-9456-5b7f5ad37fac-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cikoria.github.io/media/posts/2/gallery/_d56c93a5-9b01-4778-92c8-51c109400788-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
